@@ -23,7 +23,7 @@ This repository contains a simple implementation of the classic **Snake Game** u
 
 ## How to Play the Game
 
-* Just download the SnakeGame.exe file from [Snake Game](https://drive.google.com/drive/folders/1_SWx1VFqypE7UEm12cEIN91LdKU0NRzI) or from [this link](https://drive.google.com/drive/folders/1_SWx1VFqypE7UEm12cEIN91LdKU0NRzI).
+* Just download the SnakeGame file from [Snake Game](https://drive.google.com/drive/folders/1_SWx1VFqypE7UEm12cEIN91LdKU0NRzI) or from [this link](https://drive.google.com/drive/folders/1_SWx1VFqypE7UEm12cEIN91LdKU0NRzI).
 
 * Run the executable file. You will be directed to the homepage.
 
