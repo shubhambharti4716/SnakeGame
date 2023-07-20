@@ -25,7 +25,7 @@ This repository contains a simple implementation of the classic **Snake Game** u
 
 * Just download the SnakeGame file from [Snake Game](https://drive.google.com/drive/folders/1_SWx1VFqypE7UEm12cEIN91LdKU0NRzI) or from [this link](https://drive.google.com/drive/folders/1_SWx1VFqypE7UEm12cEIN91LdKU0NRzI).
 
-* Run the executable file. You will be directed to the homepage.
+* Run the jar file. You will be directed to the homepage.
 
 * Click on the play button to start the game.
 * Control the snake with the arrow keys ("UP", "DOWN", "LEFT", and "RIGHT"), simulating user interaction with the game. Each time the snake catches an apple, its size increases, and the user's score is incremented by 1 point.
